@@ -5,7 +5,7 @@
 <Text>ClassLibrary1</Text> 
 <Description>FSOParser version 0.2</Description>
  <VisibilityMode>AlwaysVisible</VisibilityMode> 
- <Assembly>C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\bin\Debug\ClassLibrary1.dll</Assembly> 
+ <Assembly>\FSOParser\ClassLibrary1\bin\Debug\ClassLibrary1.dll</Assembly> 
  <AddInId>0ed96ccf-0742-481d-a6ea-0282e3bd8e9d</AddInId> 
  <VendorId>ADSK</VendorId> <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription> </AddIn>
  </RevitAddIns>
