@@ -1,0 +1,9 @@
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\obj\Debug\FSOParserV02.csproj.AssemblyReference.cache
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\obj\Debug\FSOParserV02.csproj.CoreCompileInputs.cache
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\obj\Debug\FSOParserV02.csproj.CopyComplete
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\wau7rng\Documents\Repositories\Revit2RDF\Lu\FSOParser\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
